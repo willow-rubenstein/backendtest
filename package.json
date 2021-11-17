@@ -1,0 +1,22 @@
+{
+  "name": "backendtest",
+  "version": "1.0.0",
+  "description": "e",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malevtuber/backendtest.git"
+  },
+  "author": "ashe muller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malevtuber/backendtest/issues"
+  },
+  "homepage": "https://github.com/malevtuber/backendtest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
